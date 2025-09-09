@@ -1,0 +1,12 @@
+your_project/
+├─ main.py                # ไฟล์ที่คุณแปะ
+├─ config.json
+├─ data_loader/
+│  └─ data_loaders.py
+├─ model/
+│  ├─ model.py
+│  ├─ loss.py
+│  └─ metric.py
+├─ trainer.py
+└─ utils/
+   └─ util.py
